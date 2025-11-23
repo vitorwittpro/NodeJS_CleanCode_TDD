@@ -6,6 +6,7 @@
   "author": "Vitor Hugo Witt <vitorwitt.pro@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "lint-staged": "^16.2.7",
     "standard": "^17.1.2"
   }
 }
