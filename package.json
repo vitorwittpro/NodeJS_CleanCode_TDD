@@ -5,12 +5,6 @@
   "repository": "git@github.com:vitorwittpro/NodeJS_CleanCode_TDD.git",
   "author": "Vitor Hugo Witt <vitorwitt.pro@gmail.com>",
   "license": "MIT",
-  "lint-staged": {
-    "*.{js,jsx,tsx,ts}": [
-      "standard --fix",
-      "git add"
-    ]
-  },
   "devDependencies": {
     "husky": "^8.0.0",
     "jest": "^30.2.0",
