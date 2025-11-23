@@ -13,10 +13,12 @@
   },
   "devDependencies": {
     "husky": "^8.0.0",
+    "jest": "^30.2.0",
     "lint-staged": "^16.2.7",
     "standard": "^17.1.2"
   },
   "scripts": {
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "test": "jest"
   }
 }
