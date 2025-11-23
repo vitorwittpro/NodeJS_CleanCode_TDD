@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:vitorwittpro/NodeJS_CleanCode_TDD.git",
   "author": "Vitor Hugo Witt <vitorwitt.pro@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
 }
