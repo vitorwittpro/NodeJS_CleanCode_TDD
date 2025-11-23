@@ -1,0 +1,8 @@
+{
+  "name": "NodeJS_CleanCode_TDD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vitorwittpro/NodeJS_CleanCode_TDD.git",
+  "author": "Vitor Hugo Witt <vitorwitt.pro@gmail.com>",
+  "license": "MIT"
+}
